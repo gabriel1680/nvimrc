@@ -51,6 +51,8 @@ return require('packer').startup(function(use)
   use {'folke/tokyonight.nvim', as = 'tokyonight'}
   use {'catppuccin/nvim', as = 'catppuccin'}
   use {'bluz71/vim-moonfly-colors', as = 'moonfly'}
+  use {'alexvzyl/nordic.nvim', as = 'nordic'}
+  use {'nanotech/jellybeans.vim', as = 'jellybeans'}
 
   use {'theprimeagen/harpoon'}
   use {'mbbill/undotree'}
